@@ -97,7 +97,7 @@ Here are the course summary as its given on the course [link](https://www.course
   - Standard NN (Useful for Structured data)
   - Hybrid/custom NN or a Collection of NNs types
 - Structured data is like the databases and tables.
-- Unstructured data is like https://raw.githubusercontent.com/ashishpatel26/DeepLearning.ai-Summary/master/1-%20Neural%20Networks%20and%20Deep%20Learning/Images/, video, audio, and text.
+- Unstructured data is like video, audio, and text.
 - Structured data gives more money because companies relies on prediction on its big data.
 
 ### Why is deep learning taking off?
