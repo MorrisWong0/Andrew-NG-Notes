@@ -9,10 +9,10 @@
 | **Sr No** | **Article Reading**                                          |
 | --------- | :----------------------------------------------------------- |
 | **1.**    | **[Neural Network Deep Learning](andrewng-p-1-neural-network-deep-learning.md)** |
-| **2.**    | **[Improving Deep learning Network](https://github.com/ashishpatel26/Andrew-NG-Notes/blob/master/andrewng-p-2-improving-deep-learning-network.md)** |
-| **3.**    | **[Structure of ML Projects](https://github.com/ashishpatel26/Andrew-NG-Notes/blob/master/andrewng-p-3-structuring-ml-projects.md)** |
-| **4.**    | **[Convolutions Neural Network](https://github.com/ashishpatel26/Andrew-NG-Notes/blob/master/andrewng-p-4-convolutional-neural-network.md)** |
-| **5.**    | **[Sequence Models](https://github.com/ashishpatel26/Andrew-NG-Notes/blob/master/andrewng-p-5-sequence-models.md)** |
+| **2.**    | **[Improving Deep learning Network](andrewng-p-2-improving-deep-learning-network.md)** |
+| **3.**    | **[Structure of ML Projects](andrewng-p-3-structuring-ml-projects.md)** |
+| **4.**    | **[Convolutions Neural Network](andrewng-p-4-convolutional-neural-network.md)** |
+| **5.**    | **[Sequence Models](andrewng-p-5-sequence-models.md)** |
 
 | Sr. No | MOOC LECTURE LINK                                            |
 | ------ | ------------------------------------------------------------ |
