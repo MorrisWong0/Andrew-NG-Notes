@@ -149,7 +149,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - Algorithm is used for classification algorithm of 2 classes.
 - Equations:
   - Simple equation:	`y = wx + b`
-  - <img src="https://latex.codecogs.com/svg.image?y_{hat}&space;=&space;xW^T" title="y_{hat} = xW^T" />
+  - <img src="https://latex.codecogs.com/svg.image?\bg_white&space;y_{hat}&space;=&space;xW^T" title="\bg_white y_{hat} = xW^T" />
   - If x is a vector: `y = w(transpose)x + b`
   - If we need y to be in between 0 and 1 (probability): `y = sigmoid(w(transpose)x + b)`
   - In some notations this might be used: `y = sigmoid(w(transpose)x)` 
